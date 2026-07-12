@@ -1,0 +1,60 @@
+MOCKUPZ PROPRIETARY SOFTWARE LICENSE
+Version 1.0 — 2026
+
+Copyright © 2026 trainer2k. All rights reserved.
+
+
+1. LICENSE GRANT
+
+Subject to this license, the copyright holder (“Licensor”) grants you a limited, non-exclusive, revocable, non-transferable license to download, install and use the unmodified binary version of Mockupz (“Software”) on devices you own or control, for personal purposes or internal business use.
+
+2. EXPORTED WORK
+
+You retain rights in original artwork, text and other content that you import or create. You may use images exported through the Software for personal and commercial presentations, product listings, portfolios, advertising and social media, provided that:
+
+(a) you have the necessary rights to all imported content;
+(b) you do not distribute the Software or bundled mockup assets as standalone files, templates, asset packs or competing products; and
+(c) you do not claim ownership of third-party materials.
+
+This permission applies only to rendered output created through normal use of the Software. It does not grant a license to extract or redistribute bundled templates or resources.
+
+3. RESTRICTIONS
+
+Except where applicable law expressly permits otherwise, you may not:
+
+- copy, redistribute, republish, sublicense, sell, rent, lease, host or make the Software available to third parties;
+- modify, adapt, translate or create derivative software based on the Software;
+- reverse engineer, decompile, disassemble or attempt to derive the source code;
+- bypass technical restrictions or licensing controls;
+- extract, reuse, resell or redistribute bundled mockups, templates, icons, images or other resources separately from the Software;
+- remove or alter copyright, trademark, attribution or proprietary notices;
+- use the name, logo or branding of Mockupz in a way that suggests endorsement or affiliation; or
+- use the Software to infringe intellectual-property, privacy or other legal rights.
+
+4. OWNERSHIP
+
+The Software is licensed, not sold. The Licensor retains all rights, title and interest in and to the Software, including its source code, executable code, interface, branding and owned assets. No rights are granted except those expressly stated in this license.
+
+5. THIRD-PARTY MATERIALS
+
+Third-party software, fonts, images or other materials included with or used through the Software may be governed by separate terms. This license does not grant rights that the Licensor is not legally able to grant.
+
+6. UPDATES
+
+Unless an update is accompanied by a different license, this license also applies to updates, patches and new versions of the Software.
+
+7. TERMINATION
+
+This license terminates automatically if you materially violate its terms. Upon termination, you must stop using and delete all copies of the Software in your possession or control.
+
+8. DISCLAIMER
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SOFTWARE IS PROVIDED “AS IS” AND “AS AVAILABLE,” WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+9. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR FOR LOSS OF DATA, PROFITS OR BUSINESS, ARISING FROM THE SOFTWARE OR ITS USE.
+
+10. MANDATORY RIGHTS
+
+Nothing in this license excludes or limits consumer rights, liability or permissions that cannot legally be excluded or limited under applicable law.
