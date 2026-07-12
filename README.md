@@ -10,10 +10,6 @@ Mockupz is a native macOS clothing mockup editor for streetwear designers, appar
 
 > **Private by design:** Mockupz works locally. No account, cloud upload or tracking is required in the current release.
 
-<p align="center">
-  <img src="screenshots/mockupz-overview.png" alt="Mockupz macOS clothing mockup editor showing a T-shirt design, color wheel and layer controls" width="100%">
-</p>
-
 ## See Mockupz in action
 
 <p align="center">
